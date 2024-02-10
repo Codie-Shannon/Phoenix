@@ -7,10 +7,13 @@ A full stack web application for a vehicle dealership which incorporates, Javasc
 * Bootstrap
 * Bootstrap Vue
 * CORS
+* CSS
 * Custom Web Fonts
 * Dotenv
 * Environment Variables
 * Express
+* HTML
+* JSON
 * MongoDB
 * Mongoose
 * Mongoose CRUD Operations
